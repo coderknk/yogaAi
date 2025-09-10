@@ -5,9 +5,8 @@ readme_content = """# 🧘‍♀️ YogaAI
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-green?logo=flask)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-<p align="center">
-  <img src="logo.png" alt="YogaAI Logo" width="220"/>
-</p>
+<img width="1656" height="837" alt="image" src="https://github.com/user-attachments/assets/e59a7fd2-9d31-46ef-b869-cbb6b17b637e" />
+
 
 ---
 
